@@ -1,7 +1,7 @@
 # Movie Review Sentiment Classifier
 
 ## Project Overview
-A machine learning project that classifies movie reviews as positive or
+A simple machine learning model that classifies movie reviews as positive or
 negative. Review text is converted to numbers with TF-IDF, then two models
 are compared: a Decision Tree and K-Nearest Neighbors (KNN).
 
